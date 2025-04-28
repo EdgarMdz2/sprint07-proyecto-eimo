@@ -1,13 +1,24 @@
-# sprint07-proyecto-eimo
-Proyecto final Sprint 07 del Bootcamp de Análisis de Datos de TripleTen.
+# Sprint 07 - Proyecto EIMO
 
-Aplicación web desarrollada con la librería Stramlit, esta aplicación permite visualizar 2 gráficos generados a partir de un dataset que contiene información sobre anuncios de ventas de autos.
+**Proyecto final del Sprint 07** del Bootcamp de Análisis de Datos de TripleTen.
 
-Cuenta con dos celdas de checkbox la cual es posible marcar y desmarcar para mostrar u ocultar respectivamente los gráficos.
+Este proyecto consiste en una **aplicación web** desarrollada utilizando la librería **Streamlit**, que permite visualizar dos gráficos generados a partir de un **dataset** sobre anuncios de ventas de autos.
 
- - Histograma - Frecuencia por kilometraje
- - Dispersión - "Año / Kilometraje"
+## Funcionalidades
 
- La aplicación fue desplegada mediante la paltaforma "Render" y el link para probarla es el siguiente:
+La aplicación incluye dos celdas de *checkbox* que permiten al usuario **mostrar** o **ocultar** los siguientes gráficos:
 
- 
+- **Histograma**: Muestra la frecuencia de los autos según su **kilometraje**.
+- **Gráfico de dispersión**: Relaciona el **año** del auto con su **kilometraje**.
+
+## Despliegue
+
+La aplicación está desplegada en la plataforma **Render** y puede ser accedida en el siguiente enlace:
+
+[**Probar la aplicación**](https://sprint07-proyecto-eimo.onrender.com)
+
+## Requisitos
+
+- pandas
+- plotly_express
+- streamlit
