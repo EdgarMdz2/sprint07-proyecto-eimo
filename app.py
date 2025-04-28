@@ -26,7 +26,7 @@ if hist_checkbox:
 
 if scatter_checkbox:
     st.write(  # escribir un mensaje
-        'Dispersión "Año - Kilometraje"')
+        'Dispersión - Año / Kilometraje')
     # crear gráfico de dispersión
     fig2 = px.scatter(car_data,
                       x="model_year",
