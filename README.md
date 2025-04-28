@@ -15,7 +15,7 @@ La aplicación incluye dos celdas de *checkbox* que permiten al usuario **mostra
 
 La aplicación está desplegada en la plataforma **Render** y puede ser accedida en el siguiente enlace:
 
-[**Probar la aplicación**](https://sprint07-proyecto-eimo.onrender.com)
+[**https://sprint07-proyecto-eimo.onrender.com**](https://sprint07-proyecto-eimo.onrender.com)
 
 ## Requisitos
 
